@@ -37,5 +37,5 @@ end
 # Animal.eat
 # Animal.speak
 
-dog = Animal.new
-dog.speak
+# dog = Animal.new
+# dog.speak

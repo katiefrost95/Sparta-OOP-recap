@@ -11,4 +11,4 @@ end
 
 #Have to make an instance of a method before it will work
 # organism = LivingOrganism.new
-LivingOrganism.alive
+# LivingOrganism.alive
